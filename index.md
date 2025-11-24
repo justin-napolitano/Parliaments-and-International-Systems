@@ -20,6 +20,14 @@ seoSecondaryKeywords:
   - institutional analysis
   - David Lake framework
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.3
+topicFamilyNotes: >-
+  The post is an academic narrative essay that analyzes political science concepts without involving
+  programming, data science, automation, or software development. None of the specific technical
+  families match the content well. While it is scholarly content outside the listed tech categories,
+  the 'personal' category includes markdown journals and reflections, which is the closest fit given
+  absence of a political science or academic theory category.
 ---
 
 # Parliaments and International Systems: A Technical Overview
@@ -58,3 +66,4 @@ For developers or analysts revisiting this project, the text serves as a concept
 ## Summary
 
 This project provides a concise, theoretically grounded perspective on the hierarchical international system and the interplay of hegemonic interests within states. It is a resource for those seeking to understand or model the institutional dynamics that govern state behavior and international cooperation.
+
