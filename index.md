@@ -1,12 +1,26 @@
 ---
-slug: "github-parliaments-and-international-systems"
-title: "Parliaments-and-International-Systems"
-repo: "justin-napolitano/Parliaments-and-International-Systems"
-githubUrl: "https://github.com/justin-napolitano/Parliaments-and-International-Systems"
-generatedAt: "2025-11-23T09:24:08.423765Z"
-source: "github-auto"
+slug: github-parliaments-and-international-systems
+title: Technical Overview of Parliaments and International Systems Theory
+repo: justin-napolitano/Parliaments-and-International-Systems
+githubUrl: https://github.com/justin-napolitano/Parliaments-and-International-Systems
+generatedAt: '2025-11-23T09:24:08.423765Z'
+source: github-auto
+summary: >-
+  Analysis of hierarchical international systems using David Lake's framework, focusing on hegemonic
+  states and internal state actors in political institutions.
+tags:
+  - international-relations
+  - political-science
+  - institutional-analysis
+  - international-systems
+  - hegemonic-power
+seoPrimaryKeyword: international systems theory
+seoSecondaryKeywords:
+  - hegemonic states
+  - institutional analysis
+  - David Lake framework
+seoOptimized: true
 ---
-
 
 # Parliaments and International Systems: A Technical Overview
 
