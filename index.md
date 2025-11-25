@@ -1,33 +1,44 @@
 ---
 slug: github-parliaments-and-international-systems
-title: Technical Overview of Parliaments and International Systems Theory
+title: Technical Overview of Parliaments and International Systems
 repo: justin-napolitano/Parliaments-and-International-Systems
 githubUrl: https://github.com/justin-napolitano/Parliaments-and-International-Systems
 generatedAt: '2025-11-23T09:24:08.423765Z'
 source: github-auto
 summary: >-
-  Analysis of hierarchical international systems using David Lake's framework, focusing on hegemonic
-  states and internal state actors in political institutions.
+  Explore the hierarchical nature of international systems and state behavior
+  through a theoretical framework and its implications for political analysis.
 tags:
   - international-relations
   - political-science
   - institutional-analysis
   - international-systems
   - hegemonic-power
-seoPrimaryKeyword: international systems theory
-seoSecondaryKeywords:
+  - international relations
   - hegemonic states
-  - institutional analysis
-  - David Lake framework
+  - political science
+  - theoretical framework
+  - state behavior
+  - institutional dynamics
+seoPrimaryKeyword: parliaments and international systems
+seoSecondaryKeywords:
+  - hegemonic interests
+  - state competition
+  - institutional behavior
+  - theoretical analysis
+  - political frameworks
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.3
 topicFamilyNotes: >-
-  The post is an academic narrative essay that analyzes political science concepts without involving
-  programming, data science, automation, or software development. None of the specific technical
-  families match the content well. While it is scholarly content outside the listed tech categories,
-  the 'personal' category includes markdown journals and reflections, which is the closest fit given
-  absence of a political science or academic theory category.
+  The post is an academic narrative essay that analyzes political science
+  concepts without involving programming, data science, automation, or software
+  development. None of the specific technical families match the content well.
+  While it is scholarly content outside the listed tech categories, the
+  'personal' category includes markdown journals and reflections, which is the
+  closest fit given absence of a political science or academic theory category.
+kind: project
+id: github-parliaments-and-international-systems
 ---
 
 # Parliaments and International Systems: A Technical Overview
