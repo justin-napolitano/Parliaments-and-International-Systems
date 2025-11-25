@@ -1,20 +1,28 @@
 ---
 slug: github-parliaments-and-international-systems
 id: github-parliaments-and-international-systems
-title: Parliaments and International Systems
+title: Text-Based Analysis of Parliaments and International Systems
 repo: justin-napolitano/Parliaments-and-International-Systems
 githubUrl: https://github.com/justin-napolitano/Parliaments-and-International-Systems
 generatedAt: '2025-11-24T21:35:52.866Z'
 source: github-auto
 summary: >-
-  This repository contains a text-based analysis exploring the hierarchical
-  nature of the international system and the role of parliamentary governments
-  within it. The work investigates state behavior, hegemonic interests, and
-  institutional constraints on cooperation and competition among states.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the hierarchical nature of international systems and the role of
+  parliamentary governments through a comprehensive text-based analysis.
+tags:
+  - international relations
+  - text analysis
+  - parliamentary systems
+  - state behavior
+  - hegemonic interests
+  - institutional constraints
+seoPrimaryKeyword: text-based analysis of international systems
+seoSecondaryKeywords:
+  - parliamentary government analysis
+  - state behavior examination
+  - hegemonic interests study
+  - institutional roles in international systems
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
