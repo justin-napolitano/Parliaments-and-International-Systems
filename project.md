@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Parliaments-and-International-Sy
 generatedAt: '2025-11-24T21:35:52.866Z'
 source: github-auto
 summary: >-
-  Explore the hierarchical nature of international systems and the role of
-  parliamentary governments through a comprehensive text-based analysis.
+  Explore the hierarchical nature of international systems and the role of parliamentary governments
+  through a comprehensive text-based analysis.
 tags:
   - international relations
   - text analysis
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - hegemonic interests study
   - institutional roles in international systems
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -77,3 +77,4 @@ git clone https://github.com/justin-napolitano/Parliaments-and-International-Sys
 ---
 
 *Note: This repository currently contains a single text file with theoretical content. No executable code or software components are included.*
+
